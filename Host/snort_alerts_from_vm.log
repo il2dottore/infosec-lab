@@ -1,0 +1,204 @@
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:15:41.997Z
+**Source VM:** 192.168.56.129
+
+```
+Test Snort alert from guest VM
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:23:17.945Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-12:39:21 [**] [1:1000007:1] "LAB DVWA XSS attempt - script tag" [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.56.130:52128 -> 192.168.56.129:8080
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:11.028Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:11.034941 [**] [1:1000010:1] "LAB DVWA XSS attempt - img tag" [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.56.128:38062 -> 192.168.56.129:8080
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:12.597Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:11.034941 [**] [1:1000009:1] "LAB DVWA XSS attempt - HTML event handler" [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.56.128:38062 -> 192.168.56.129:8080
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:34.400Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.394119 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43558 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:35.206Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.394119 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43566 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:35.631Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.394374 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43572 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:36.037Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.394444 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43588 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:36.592Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.394639 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43604 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:37.160Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.394997 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43614 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:37.771Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.395535 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43618 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:38.278Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.396105 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43626 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:39.660Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.396420 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43634 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:40.113Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.396664 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43636 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:42.018Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.397131 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43650 -> 192.168.56.129:22
+```
+
+🚨 **Snort Alert from VM**
+
+**Time:** 2026-05-12T15:26:42.530Z
+**Source VM:** 192.168.56.129
+
+```
+Snort Alert Detected
+Host: vongocbao
+Server IP: 192.168.56.129
+
+05/12-15:26:34.397178 [**] [1:1000002:1] "LAB SSH possible bruteforce connection attempts" [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.56.128:43654 -> 192.168.56.129:22
+```
+
